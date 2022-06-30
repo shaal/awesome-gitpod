@@ -62,6 +62,7 @@ About this section. Optional. Keep this short and focus on the list.
 - [Helm Chart](https://jimmyb.ninja/post/1607011905)
 - [Near](https://near.org/blog/near-onboarding-with-gitpod)
 - [NumPy](https://numpy.org/devdocs/dev/development_gitpod.html)
+- [Quarkus 🇫🇷](https://dev.to/zenika/comment-je-suis-arrive-a-developper-en-java-sur-le-cloud-grace-a-gitpod-1lhj)
 - [React](https://itnext.io/how-to-use-gitpod-in-your-create-react-app-based-project-dd4d0b33ce77)
 - [Tasmota](https://tasmota.github.io/docs/Gitpod)
 - [Uno](https://platform.uno/blog/uno-platform-2-0-reloaded-gitpod-integration)
